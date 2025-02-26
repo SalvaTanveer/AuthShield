@@ -25,7 +25,7 @@
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone [https://github.com/your-username/AuthShield.git](https://github.com/SalvaTanveer/AuthShield.git)
+git clone https://github.com/SalvaTanveer/AuthShield.git
 cd AuthShield
 ```
 
